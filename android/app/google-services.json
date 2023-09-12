@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552884589761",
+    "project_id": "reel-fusion",
+    "storage_bucket": "reel-fusion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552884589761:android:5653d5b816fecb24813040",
+        "android_client_info": {
+          "package_name": "com.example.reel_fusion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552884589761-0is7h5g94s28aua6ivan7ovfr58uelhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXybaHd01Vw3eBp6n2ZSHZaAha_D-8eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552884589761-0is7h5g94s28aua6ivan7ovfr58uelhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
