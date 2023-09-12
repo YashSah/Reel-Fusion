@@ -50,6 +50,18 @@ dev_dependencies:
   timeago: ^3.5.0
   cached_network_image: ^3.2.3
 
+  flutter_native_splash: ^2.3.2
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/splash.png"
+
+flutter_native_splash:
+  color: "#000000"
+  image: assets/splash.png
+
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
